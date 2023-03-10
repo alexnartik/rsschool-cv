@@ -39,4 +39,6 @@ Quite nothing for now :/
 
 ## Lenguages
 * Russian - native
-* English - B2 ![](https://github.com/alexnartik/rsschool-cv/raw/gh-pages/IMG_7066.png)
+* English - B2 
+* ![](https://github.com/alexnartik/rsschool-cv/raw/gh-pages/IMG_7066.png)
+Results from [efset.com](https://www.efset.org/quick-check/)
